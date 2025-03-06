@@ -24,6 +24,7 @@ footer{
     background-color: rgb(83, 79, 77);
     padding: 40px;
     width: 120px;
+    
 }
 
 .quadrado_escrita{
@@ -43,3 +44,8 @@ footer{
     padding: 0px;
     width: 45px;    
 }
+
+#flex{
+    display: flex;
+}
+
