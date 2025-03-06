@@ -19,3 +19,27 @@ footer{
     background-color: black;
     color: white;
 }
+
+#quadrado_contato{
+    background-color: rgb(83, 79, 77);
+    padding: 40px;
+    width: 120px;
+}
+
+.quadrado_escrita{
+    background-color: white;
+    padding: 10px;
+    width: 100px;  
+}
+
+#quadrado_mensagem{
+    background-color: white;
+    padding: 20px;
+    width: 100px;    
+}
+
+#quadrado_enviar{
+    background-color: rgb(201, 198, 198);
+    padding: 0px;
+    width: 45px;    
+}
