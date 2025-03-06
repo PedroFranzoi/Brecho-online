@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(189, 183, 183);
+}
+
+#cabeca{
+    background-color: black;
+    padding: 50px;
+    margin: 0px;
+    display: flex;
+    color: white;
+}
+
+#imagem{
+    width: 100px;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+}
