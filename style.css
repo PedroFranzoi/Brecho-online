@@ -92,3 +92,11 @@ footer{
     scroll-behavior: smooth;
 }
 
+#trabalho{
+    padding-top: 120px;
+}
+
+#texto{
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
