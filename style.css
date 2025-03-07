@@ -6,9 +6,25 @@ body{
     background-color: black;
     padding: 50px;
     margin: 0px;
-    display: flex;
+    display:flex;
     color: white;
 }
+
+#titulo_cabeca{
+    padding-left: 20px;
+}
+
+#produtos{
+ padding-left: 170px;
+}
+
+#sobre{
+    padding-left: 270px;
+   }
+
+#contato{
+    padding-left: 300px;
+   }
 
 #imagem{
     width: 100px;
